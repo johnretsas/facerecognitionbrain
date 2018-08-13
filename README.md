@@ -1,5 +1,7 @@
 Face Recognition app using Clarifai API - React.js
 
+Currently only front-end implemented
+
 Credits to the great course on Udemy from Andrei Neagoie
 
 
